@@ -1,0 +1,53 @@
+model:
+  cuda_id: 0
+  epoch: 80
+  lr: 0.001
+  weight_decay: 0.0001
+mod:
+  use_morgan: true
+  use_espf: false
+  use_pubchem: false
+  use_exp: true
+  use_mut: false
+  use_meth: true
+  use_path: false
+enc:
+  depth: 4
+  mlp_ratio: 4
+  dropout: 0.2
+ban:
+  num_heads: 4
+  dropout: 0.1
+  gate_init: 1.0
+  token_dropout: 0.1
+  drop_mode: zero
+trans:
+  d_model: 128
+  nhead: 4
+  num_layers: 2
+  dim_feedforward: 512
+  dropout: 0.3
+  pool: mean
+  token_dropout: 0.1
+mlp:
+  mlp_in_dim: 128
+  mlp_hidden_dim: [512, 128]
+cl:
+  use_exp_meth: false
+  use_exp_morgan: true
+  use_ban_fuse: true
+  lambda_cell: 0.0
+  lambda_cross: 0.002
+  lambda_ban: 0.005
+  temp_cell: 0.12
+  temp_cross: 0.12
+  temp_ban: 0.12
+  proj_dim: 128
+  proj_dropout: 0.1
+  detach_other: true
+  ban_gate: false
+dcg:
+  enable: true
+  alpha: 0.2
+  target: exp_meth
+

@@ -1,0 +1,40 @@
+{
+  "per_seed": [
+    {
+      "seed": 2020,
+      "n_drugs": 112,
+      "mean_delta": 0.018614229033187785,
+      "median_delta": -0.008639008995633454,
+      "win_drugs": 50,
+      "loss_drugs": 62,
+      "bootstrap_ci_low": -0.004995139550363914,
+      "bootstrap_ci_high": 0.04467291546917528,
+      "wilcoxon_p": 0.5839185206427794,
+      "paired_t_p": 0.07323910733445584
+    },
+    {
+      "seed": 2021,
+      "n_drugs": 112,
+      "mean_delta": 0.013367172828206838,
+      "median_delta": -0.006060250503380937,
+      "win_drugs": 52,
+      "loss_drugs": 60,
+      "bootstrap_ci_low": -0.010953798003471921,
+      "bootstrap_ci_high": 0.03993806732302303,
+      "wilcoxon_p": 0.6481422391374357,
+      "paired_t_p": 0.15393580014142602
+    }
+  ],
+  "pooled_drug_seed": {
+    "seed": "pooled_drug_seed",
+    "n_drug_seed": 224,
+    "mean_delta": 0.01599070093069731,
+    "median_delta": -0.00814919538325369,
+    "win_drug_seed": 102,
+    "loss_drug_seed": 122,
+    "bootstrap_ci_low": -0.001186118480022495,
+    "bootstrap_ci_high": 0.03443967268172788,
+    "wilcoxon_p": 0.6650740345162687,
+    "paired_t_p": 0.040057314341860197
+  }
+}

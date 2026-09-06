@@ -1,0 +1,38 @@
+{
+  "title": "BCGDRP: drug-conditioned multimodal learning for drug response prioritization in unseen cancer cell lines",
+  "description": "Code, trained models, analysis scripts, and source data for BCGDRP, a drug-conditioned multimodal framework evaluated under cell-line-disjoint drug-response prediction. The release includes reproducibility checks, response-statistics baselines, cross-screen evaluation, disease-focused hold-outs, and replicate-level dose-response source data. Third-party inputs governed by provider-specific licences are documented but not redistributed.",
+  "creators": [
+    {"name": "Gao, Yukun", "affiliation": "Department of Data Science, City University of Hong Kong (Dongguan)"},
+    {"name": "Chen, Guanxing", "affiliation": "Department of Computer Science, City University of Hong Kong (Dongguan)", "orcid": "0000-0002-4435-0884"},
+    {"name": "Deng, Xinpei", "affiliation": "Department of Urology, State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center"},
+    {"name": "Peng, Zegao", "affiliation": "Department of Computer Science, City University of Hong Kong (Dongguan)"},
+    {"name": "Shi, Jilong", "affiliation": "Department of Biomedical Engineering, City University of Hong Kong (Dongguan)"},
+    {"name": "Tang, Zhenchao", "affiliation": "AI for Life Sciences Lab, Tencent"},
+    {"name": "He, Haohuai", "affiliation": "Department of Data Science and Artificial Intelligence, The Hong Kong Polytechnic University"},
+    {"name": "Yang, Yu", "affiliation": "Centre for Learning, Teaching, and Technology, The Education University of Hong Kong"},
+    {"name": "Hu, Pengwei", "affiliation": "Xinjiang Technical Institute of Physics and Chemistry, Chinese Academy of Sciences"},
+    {"name": "Wang, Lei", "affiliation": "School of Computer Science and Technology, China University of Mining and Technology"},
+    {"name": "You, Zhu-Hong", "affiliation": "School of Computer Science, Northwestern Polytechnical University"},
+    {"name": "Huang, Yu-An", "affiliation": "School of Computer Science, Northwestern Polytechnical University"},
+    {"name": "Huang, Zhi-An", "affiliation": "Department of Computer Science, City University of Hong Kong (Dongguan)"}
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.0",
+  "publication_date": "2026-08-31",
+  "keywords": [
+    "drug response prediction",
+    "cancer pharmacogenomics",
+    "multimodal learning",
+    "cell-line-disjoint evaluation",
+    "BCGDRP"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Calendsec777/BCGDRP",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

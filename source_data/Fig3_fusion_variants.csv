@@ -1,0 +1,15 @@
+panel_group,variant,metric,value
+fusion,exp_morgan_ban,RMSE,1.3724
+fusion,exp_morgan_concat_mlp,RMSE,1.3787
+fusion,exp_morgan_cross_attention,RMSE,1.4166
+fusion,meth_morgan_ban,RMSE,1.4733
+fusion,meth_morgan_concat_mlp,RMSE,1.4266
+fusion,meth_morgan_cross_attention,RMSE,1.4662
+fusion,full_bcgdrp,RMSE,1.3644
+fusion,exp_morgan_ban,PCC,0.8683
+fusion,exp_morgan_concat_mlp,PCC,0.8671
+fusion,exp_morgan_cross_attention,PCC,0.8628
+fusion,meth_morgan_ban,PCC,0.8483
+fusion,meth_morgan_concat_mlp,PCC,0.8581
+fusion,meth_morgan_cross_attention,PCC,0.8533
+fusion,full_bcgdrp,PCC,0.8706

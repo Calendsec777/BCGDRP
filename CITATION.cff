@@ -1,0 +1,82 @@
+cff-version: 1.2.0
+title: "BCGDRP: drug-conditioned multimodal learning for drug response prioritization in unseen cancer cell lines"
+message: "If you use this software or the released data, please cite the paper."
+type: software
+license: MIT
+version: 1.0.0
+date-released: 2026-08-31
+repository-code: "https://github.com/Calendsec777/BCGDRP"
+url: "https://github.com/Calendsec777/BCGDRP"
+authors:
+  - family-names: Gao
+    given-names: Yukun
+    affiliation: "Department of Data Science, City University of Hong Kong (Dongguan)"
+  - family-names: Chen
+    given-names: Guanxing
+    affiliation: "Department of Computer Science, City University of Hong Kong (Dongguan)"
+    orcid: "https://orcid.org/0000-0002-4435-0884"
+  - family-names: Deng
+    given-names: Xinpei
+    affiliation: "Department of Urology, State Key Laboratory of Oncology in South China, Guangdong Provincial Clinical Research Center for Cancer, Sun Yat-sen University Cancer Center"
+  - family-names: Peng
+    given-names: Zegao
+    affiliation: "Department of Computer Science, City University of Hong Kong (Dongguan)"
+  - family-names: Shi
+    given-names: Jilong
+    affiliation: "Department of Biomedical Engineering, City University of Hong Kong (Dongguan)"
+  - family-names: Tang
+    given-names: Zhenchao
+    affiliation: "AI for Life Sciences Lab, Tencent"
+  - family-names: He
+    given-names: Haohuai
+    affiliation: "Department of Data Science and Artificial Intelligence, The Hong Kong Polytechnic University"
+  - family-names: Yang
+    given-names: Yu
+    affiliation: "Centre for Learning, Teaching, and Technology, The Education University of Hong Kong"
+  - family-names: Hu
+    given-names: Pengwei
+    affiliation: "Xinjiang Technical Institute of Physics and Chemistry, Chinese Academy of Sciences"
+  - family-names: Wang
+    given-names: Lei
+    affiliation: "School of Computer Science and Technology, China University of Mining and Technology"
+  - family-names: You
+    given-names: Zhu-Hong
+    affiliation: "School of Computer Science, Northwestern Polytechnical University"
+  - family-names: Huang
+    given-names: Yu-An
+    affiliation: "School of Computer Science, Northwestern Polytechnical University"
+  - family-names: Huang
+    given-names: Zhi-An
+    affiliation: "Department of Computer Science, City University of Hong Kong (Dongguan)"
+preferred-citation:
+  type: article
+  title: "Drug-conditioned multimodal learning for drug response prioritization in unseen cancer cell lines"
+  authors:
+    - family-names: Gao
+      given-names: Yukun
+    - family-names: Chen
+      given-names: Guanxing
+    - family-names: Deng
+      given-names: Xinpei
+    - family-names: Peng
+      given-names: Zegao
+    - family-names: Shi
+      given-names: Jilong
+    - family-names: Tang
+      given-names: Zhenchao
+    - family-names: He
+      given-names: Haohuai
+    - family-names: Yang
+      given-names: Yu
+    - family-names: Hu
+      given-names: Pengwei
+    - family-names: Wang
+      given-names: Lei
+    - family-names: You
+      given-names: Zhu-Hong
+    - family-names: Huang
+      given-names: Yu-An
+    - family-names: Huang
+      given-names: Zhi-An
+  year: 2026
+  # journal, volume, pages and doi to be completed on acceptance

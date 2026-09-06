@@ -1,0 +1,27 @@
+{
+  "source": "PharmacoDB GraphQL datasetId=2 (CTRPv2)",
+  "endpoint": "https://pharmacodb.ca/graphql",
+  "endpoint_note": "PharmacoDB profile.AAC is activity area; resistance_rank is defined as -AAC.",
+  "ctrv2_cells": 887,
+  "ctrv2_compounds": 544,
+  "cell_mapping": {
+    "matched": 717,
+    "unmatched": 169,
+    "ambiguous:ACH-000561;ACH-001321": 1
+  },
+  "matched_cells_with_features": 717,
+  "shared_compounds_total": 112,
+  "shared_compounds_by_match_type": {
+    "pubchem": 112
+  },
+  "pairs_all": 63866,
+  "pairs_no_gdsc_train": 29321,
+  "pairs_no_gdsc_response": 20263,
+  "unique_cells_all": 717,
+  "unique_cells_no_gdsc_train": 327,
+  "unique_cells_no_gdsc_response": 229,
+  "eligible_drugs_all_min_cells": 112,
+  "eligible_drugs_no_gdsc_train_min_cells": 112,
+  "eligible_drugs_no_gdsc_response_min_cells": 112,
+  "min_cells_per_drug": 10
+}

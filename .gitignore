@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+outputs/
+*.log
+data/cell/geo_*_cosmic.csv
+data/cell/pathway_cosmic.csv
+checkpoints/*.pt

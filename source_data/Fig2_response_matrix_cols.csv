@@ -1,0 +1,170 @@
+pubchem_id,col,drug_name,target_pathway
+11178236,0,Sepantronium bromide,Apoptosis regulation
+44137675,1,AZD6482,PI3K/MTOR signaling
+9858940,2,SB505124,RTK signaling
+51371303,3,PF-4708671,PI3K/MTOR signaling
+5494449,4,Tozasertib,Mitosis
+10077147,5,BX795,"Other, kinases"
+16095342,6,GSK269962A,Cytoskeleton
+300471,7,Elesclomol,Protein stability and degradation
+637858,8,Piperlongumine,Other
+2375,9,Bicalutamide,Hormone-related
+10459196,10,SL0101,"Other, kinases"
+444795,11,Tretinoin,Other
+54685215,12,IOX2,Other
+9956119,13,CHIR-99021,WNT signaling
+6505803,14,Tanespimycin,Protein stability and degradation
+11634725,15,VX-11e,ERK MAPK signaling
+24866313,16,SCH772984,ERK MAPK signaling
+10127622,17,Selumetinib,ERK MAPK signaling
+44182295,18,Refametinib,ERK MAPK signaling
+9826528,19,PD0325901,ERK MAPK signaling
+11707110,20,Trametinib,ERK MAPK signaling
+24180719,21,PLX-4720,ERK MAPK signaling
+44462760,22,Dabrafenib,ERK MAPK signaling
+78209992,23,AZD3759,EGFR signaling
+176870,24,Erlotinib,EGFR signaling
+123631,25,Gefitinib,EGFR signaling
+24821094,26,Ibrutinib,"Other, kinases"
+71496458,27,Osimertinib,EGFR signaling
+11488320,28,AZD8931,RTK signaling
+10184653,29,Afatinib,EGFR signaling
+208908,30,Lapatinib,RTK signaling
+992586,31,UMI-77,Apoptosis regulation
+2984337,32,WIKI4,WNT signaling
+71297207,33,WEHI-539,Apoptosis regulation
+49846579,34,Venotoclax,Apoptosis regulation
+11228183,35,ABT737,Apoptosis regulation
+24978538,36,Navitoclax,Apoptosis regulation
+24737642,37,LCL161,Apoptosis regulation
+49847690,38,AZD5582,Other
+35397514,39,OF-1,Chromatin histone acetylation
+9938202,40,EHT-1864,Cytoskeleton
+46926973,41,LGK974,WNT signaling
+52913813,42,AZD8186,PI3K/MTOR signaling
+56649450,43,Alpelisib,PI3K/MTOR signaling
+51001932,44,Taselisib,PI3K/MTOR signaling
+17755052,45,Pictilisib,PI3K/MTOR signaling
+51042438,46,Uprosertib,PI3K/MTOR signaling
+46930998,47,MK-2206,PI3K/MTOR signaling
+46843057,48,Afuresertib,PI3K/MTOR signaling
+24788740,49,Ipatasertib,PI3K/MTOR signaling
+6918289,50,Temsirolimus,PI3K/MTOR signaling
+25262965,51,AZD8055,PI3K/MTOR signaling
+11977753,52,Dactolisib,PI3K/MTOR signaling
+70676303,53,GNE-317,PI3K/MTOR signaling
+644241,54,Nilotinib,ABL signaling
+3062316,55,Dasatinib,RTK signaling
+5328940,56,Bosutinib,"Other, kinases"
+11404337,57,Obatoclax Mesylate,Apoptosis regulation
+5460769,58,Bleomycin (50 uM),DNA replication
+387447,59,Bortezomib,Protein stability and degradation
+462382,60,MG-132,Protein stability and degradation
+11655119,61,LY2109761,Other
+2802462,62,MN-64,WNT signaling
+68289010,63,AZD6094,RTK signaling
+56962337,64,SGC0946,Chromatin histone methylation
+176158,65,SB216763,WNT signaling
+9943465,66,GW441756,RTK signaling
+52918385,67,PRIMA-1MET,p53 pathway
+71271629,68,PFI-1,Chromatin other
+46907787,69,JQ1,Chromatin other
+46943432,70,I-BET-762,Chromatin other
+9936746,71,OTX015,Chromatin other
+59473233,72,Entospletinib,"Other, kinases"
+44462758,73,PRT062607,"Other, kinases"
+59472121,74,VE-822,Genome integrity
+24753719,75,PCI-34051,Chromatin histone acetylation
+73555129,76,KRAS (G12C) Inhibitor-12,ERK MAPK signaling
+25099184,77,AZ960,"Other, kinases"
+46926350,78,Dinaciclib,Cell cycle
+9813758,79,BMS-345541,"Other, kinases"
+25124816,80,GSK1904529A,RTK signaling
+25126798,81,Ruxolitinib,"Other, kinases"
+53469448,82,GSK2606414,Metabolism
+3899,83,Leflunomide,DNA replication
+71299339,84,AGI-6780,Metabolism
+57519544,85,Wnt-C59,WNT signaling
+60167849,86,ML323,Protein stability and degradation
+2155128,87,IWP-2,WNT signaling
+1018,88,Picolinici-acid,Other
+71268957,89,GSK343,Chromatin histone methylation
+42623951,90,CZC24832,PI3K/MTOR signaling
+78243717,91,PFI-3,Chromatin other
+25227847,92,Pyridostatin,DNA replication
+46236925,93,Sabutoclax,Apoptosis regulation
+10385095,94,Telomerase Inhibitor IX,Genome integrity
+11626560,95,Crizotinib,RTK signaling
+42642645,96,Foretinib,RTK signaling
+9914412,97,ZM447439,Mitosis
+24771867,98,Alisertib,Mitosis
+6450551,99,Axitinib,RTK signaling
+11364421,100,BI-2536,Cell cycle
+6710780,101,Vinblastine,Mitosis
+36314,102,Paclitaxel,Mitosis
+44632017,103,YK-4-279,Other
+5311497,104,Vinorelbine,Mitosis
+148124,105,Docetaxel,Mitosis
+126565,106,Lestaurtinib,"Other, kinases"
+16224745,107,MK-8776,Cell cycle
+51000408,108,VE821,Genome integrity
+54761306,109,AZD6738,Genome integrity
+11152667,110,AZD7762,Cell cycle
+10384072,111,Wee1 Inhibitor,Cell cycle
+24856436,112,MK-1775,Cell cycle
+11433190,113,Nutlin-3a (-),p53 pathway
+11609586,114,Serdemetan,p53 pathway
+5330286,115,Palbociclib,Cell cycle
+44631912,116,Ribociclib,Cell cycle
+3385,117,5-Fluorouracil,Other
+5310940,118,Oxaliplatin,DNA replication
+16720766,119,Pevonedistat,Other
+24958200,120,Niraparib,Genome integrity
+23725625,121,Olaparib,Genome integrity
+84691,122,Cisplatin,DNA replication
+6253,123,Cytarabine,Other
+41867,124,Epirubicin,DNA replication
+104842,125,SN-38,DNA replication
+60750,126,Gemcitabine,DNA replication
+60838,127,Irinotecan,DNA replication
+24360,128,Camptothecin,DNA replication
+4261,129,Entinostat,Chromatin histone acetylation
+5311,130,Vorinostat,Chromatin histone acetylation
+216239,131,Sorafenib,RTK signaling
+46931953,132,P22077,Protein stability and degradation
+118704762,133,LJI308,PI3K/MTOR signaling
+117072552,134,GSK591,Chromatin histone methylation
+56645356,135,AGI-5198,Metabolism
+46883536,136,Avagacestat,Other
+156422,137,Doramapimod,JNK and p38 signaling
+11624601,138,JNK Inhibitor VIII,JNK and p38 signaling
+2314623,139,CCT007093,Cell cycle
+5278396,140,KU-55933,Genome integrity
+11327430,141,NU7441,Genome integrity
+9931953,142,Rucaparib,Genome integrity
+24776445,143,Vismodegib,Other
+11960529,144,Veliparib,Genome integrity
+216326,145,Lenalidomide,Protein stability and degradation
+11667893,146,Motesanib,RTK signaling
+70983932,147,GSK2830371,Other
+5394,148,Temozolomide,DNA replication
+227681,149,MIRA-1,p53 pathway
+57345410,150,EPZ5676,Chromatin histone methylation
+56962336,151,EPZ004777,Chromatin histone methylation
+9927531,152,BIBR-1532,Genome integrity
+2907,153,Cyclophosphamide,DNA replication
+104741,154,Fulvestrant,Hormone-related
+56941241,155,GDC0810,Hormone-related
+68107965,156,GSK2578215A,"Other, kinases"
+68947304,157,AMG-319,PI3K/MTOR signaling
+91668541,158,I-BRD9,Chromatin other
+72200024,159,WZ4003,"Other, kinases"
+2733526,160,Tamoxifen,Hormone-related
+9825149,161,NVP-ADW742,IGF1R signaling
+11640390,162,Linsitinib,IGF1R signaling
+9933475,163,Cediranib,RTK signaling
+1401,164,PD173074,RTK signaling
+51039095,165,AZD4547,RTK signaling
+126941,166,Methotrexate,DNA replication
+11455910,167,TW 37,Apoptosis regulation
+6914657,168,Daporinad,Metabolism

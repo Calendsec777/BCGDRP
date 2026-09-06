@@ -1,0 +1,214 @@
+source,cell_line,drug,concentration_uM,replicate,viability
+cell line,MDA-MB-231,Dinaciclib,3.7824,1,26.341383005027602
+cell line,MDA-MB-231,Dinaciclib,3.7824,2,27.330421165416602
+cell line,MDA-MB-231,Dinaciclib,3.7824,3,25.9292837715322
+cell line,MDA-MB-231,Dinaciclib,1.8912,1,27.000741778620302
+cell line,MDA-MB-231,Dinaciclib,1.8912,2,31.2865738069727
+cell line,MDA-MB-231,Dinaciclib,1.8912,3,29.7205967196901
+cell line,MDA-MB-231,Dinaciclib,0.9456,1,27.989779939009303
+cell line,MDA-MB-231,Dinaciclib,0.9456,2,27.412841012115702
+cell line,MDA-MB-231,Dinaciclib,0.9456,3,30.2151157998846
+cell line,MDA-MB-231,Dinaciclib,0.4728,1,30.4623753399819
+cell line,MDA-MB-231,Dinaciclib,0.4728,2,30.9568944201764
+cell line,MDA-MB-231,Dinaciclib,0.4728,3,30.7920547267782
+cell line,MDA-MB-231,Dinaciclib,0.2364,1,27.330421165416602
+cell line,MDA-MB-231,Dinaciclib,0.2364,2,29.1436577927965
+cell line,MDA-MB-231,Dinaciclib,0.2364,3,27.989779939009303
+cell line,MDA-MB-231,Dinaciclib,0.1182,1,22.879749443666
+cell line,MDA-MB-231,Dinaciclib,0.1182,2,22.5500700568697
+cell line,MDA-MB-231,Dinaciclib,0.1182,3,21.8082914365779
+cell line,MDA-MB-231,Dinaciclib,0.0591,1,55.8476881233001
+cell line,MDA-MB-231,Dinaciclib,0.0591,2,55.6004285832028
+cell line,MDA-MB-231,Dinaciclib,0.0591,3,57.5785049039809
+cell line,MDA-MB-231,Dinaciclib,0.0295,1,91.4530618973049
+cell line,MDA-MB-231,Dinaciclib,0.0295,2,93.9256572982774
+cell line,MDA-MB-231,Dinaciclib,0.0295,3,90.0519245034204
+cell line,MDA-MB-231,Dinaciclib,0.0148,1,95.9861534657546
+cell line,MDA-MB-231,Dinaciclib,0.0148,2,96.3158328525509
+cell line,MDA-MB-231,Dinaciclib,0.0148,3,99.5302068738152
+cell line,MDA-MB-231,Dinaciclib,0.0074,1,99.9423061073107
+cell line,MDA-MB-231,Dinaciclib,0.0074,2,96.2334130058518
+cell line,MDA-MB-231,Dinaciclib,0.0074,3,103.81603890216799
+cell line,5637,Dactolisib,5.0,1,0.552486187845304
+cell line,5637,Dactolisib,5.0,2,0.49109883364026996
+cell line,5637,Dactolisib,5.0,3,0.306936771025169
+cell line,5637,Dactolisib,1.0,1,9.69920196439533
+cell line,5637,Dactolisib,1.0,2,9.33087783916513
+cell line,5637,Dactolisib,1.0,3,9.94475138121547
+cell line,5637,Dactolisib,0.2,1,13.321055862492301
+cell line,5637,Dactolisib,0.2,2,13.8121546961326
+cell line,5637,Dactolisib,0.2,3,13.2596685082873
+cell line,5637,Dactolisib,0.04,1,19.5825659914058
+cell line,5637,Dactolisib,0.04,2,20.073664825046002
+cell line,5637,Dactolisib,0.04,3,19.7053406998158
+cell line,5637,Dactolisib,0.008,1,48.7415592387968
+cell line,5637,Dactolisib,0.008,2,47.820748925721304
+cell line,5637,Dactolisib,0.008,3,45.6721915285451
+cell line,5637,Dactolisib,0.0016,1,76.7341927562922
+cell line,5637,Dactolisib,0.0016,2,71.0251688152241
+cell line,5637,Dactolisib,0.0016,3,73.2965009208103
+cell line,5637,Dactolisib,0.0008,1,80.049109883364
+cell line,5637,Dactolisib,0.0008,2,79.4966236955187
+cell line,5637,Dactolisib,0.0008,3,80.1104972375691
+cell line,5637,Dactolisib,0.0004,1,88.3977900552486
+cell line,5637,Dactolisib,0.0004,2,85.451197053407
+cell line,5637,Dactolisib,0.0004,3,90.97605893186001
+cell line,5637,Dactolisib,0.0002,1,93.3087783916513
+cell line,5637,Dactolisib,0.0002,2,86.4947820748926
+cell line,5637,Dactolisib,0.0002,3,89.9324739103745
+cell line,5637,Dactolisib,0.0001,1,96.9306322897483
+cell line,5637,Dactolisib,0.0001,2,92.81767955801101
+cell line,5637,Dactolisib,0.0001,3,96.68508287292819
+cell line,5637,Dactolisib,0.0,1,100.73664825046001
+cell line,5637,Dactolisib,0.0,2,99.8772252915899
+cell line,5637,Dactolisib,0.0,3,99.3861264579497
+cell line,5637,Daporinad,30.0,1,6.96629213483146
+cell line,5637,Daporinad,30.0,2,7.0561797752809
+cell line,5637,Daporinad,30.0,3,6.786516853932591
+cell line,5637,Daporinad,6.0,1,9.393258426966291
+cell line,5637,Daporinad,6.0,2,10.6966292134831
+cell line,5637,Daporinad,6.0,3,8.98876404494382
+cell line,5637,Daporinad,1.2,1,18.1573033707865
+cell line,5637,Daporinad,1.2,2,17.977528089887603
+cell line,5637,Daporinad,1.2,3,18.4719101123596
+cell line,5637,Daporinad,0.24,1,23.2359550561798
+cell line,5637,Daporinad,0.24,2,21.393258426966298
+cell line,5637,Daporinad,0.24,3,21.8876404494382
+cell line,5637,Daporinad,0.048,1,41.6179775280899
+cell line,5637,Daporinad,0.048,2,40.8539325842697
+cell line,5637,Daporinad,0.048,3,41.438202247191
+cell line,5637,Daporinad,0.0096,1,72.4494382022472
+cell line,5637,Daporinad,0.0096,2,73.6629213483146
+cell line,5637,Daporinad,0.0096,3,74.561797752809
+cell line,5637,Daporinad,0.00192,1,85.57303370786519
+cell line,5637,Daporinad,0.00192,2,85.2134831460674
+cell line,5637,Daporinad,0.00192,3,87.4157303370786
+cell line,5637,Daporinad,0.000384,1,86.6966292134831
+cell line,5637,Daporinad,0.000384,2,87.2359550561798
+cell line,5637,Daporinad,0.000384,3,90.65168539325839
+cell line,5637,Daporinad,7.7e-05,1,98.20224719101121
+cell line,5637,Daporinad,7.7e-05,2,93.3932584269663
+cell line,5637,Daporinad,7.7e-05,3,96.31460674157299
+cell line,5637,Daporinad,0.0,1,100.35955056179799
+cell line,5637,Daporinad,0.0,2,99.9101123595506
+cell line,5637,Daporinad,0.0,3,99.7303370786517
+cell line,5637,Dinaciclib,0.02,1,101.28119958242401
+cell line,5637,Dinaciclib,0.02,2,100.75922938217701
+cell line,5637,Dinaciclib,0.02,3,97.9595710353991
+cell line,5637,Dinaciclib,0.04,1,96.1564012527285
+cell line,5637,Dinaciclib,0.04,2,100.189807345544
+cell line,5637,Dinaciclib,0.04,3,100.521970200247
+cell line,5637,Dinaciclib,0.08,1,91.7908323052102
+cell line,5637,Dinaciclib,0.08,2,94.2583277972858
+cell line,5637,Dinaciclib,0.08,3,88.9911739584322
+cell line,5637,Dinaciclib,0.16,1,48.3724020119579
+cell line,5637,Dinaciclib,0.16,2,45.8100028471102
+cell line,5637,Dinaciclib,0.16,3,44.6237069374585
+cell line,5637,Dinaciclib,0.32,1,5.95046028281295
+cell line,5637,Dinaciclib,0.32,2,6.140267628357219
+cell line,5637,Dinaciclib,0.32,3,7.706178229097469
+cell line,5637,Dinaciclib,0.64,1,5.5708455917244
+cell line,5637,Dinaciclib,0.64,2,6.85204517414824
+cell line,5637,Dinaciclib,0.64,3,5.5708455917244
+cell line,5637,Dinaciclib,1.28,1,7.3740153743949906
+cell line,5637,Dinaciclib,1.28,2,6.89949701053431
+cell line,5637,Dinaciclib,1.28,3,6.28262313751542
+cell line,5637,Dinaciclib,2.56,1,5.475941918952261
+cell line,5637,Dinaciclib,2.56,2,6.70968966499003
+cell line,5637,Dinaciclib,2.56,3,6.7571415013761005
+cell line,5637,Dinaciclib,5.12,1,6.70968966499003
+cell line,5637,Dinaciclib,5.12,2,6.80459333776217
+cell line,5637,Dinaciclib,5.12,3,5.61829742811047
+cell line,5637,Dinaciclib,10.24,1,4.76416437316124
+cell line,5637,Dinaciclib,10.24,2,6.70968966499003
+cell line,5637,Dinaciclib,10.24,3,7.89598557464174
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,10.24,1,11.9375573921028
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,10.24,2,12.0293847566575
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,10.24,3,11.9375573921028
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,5.12,1,13.1313131313131
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,5.12,2,13.1313131313131
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,5.12,3,13.2231404958678
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,2.56,1,13.682277318641
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,2.56,2,14.233241505968799
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,2.56,3,14.4168962350781
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,1.28,1,15.5188246097337
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,1.28,2,15.7943067033976
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,1.28,3,15.6106519742883
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,0.64,1,14.325068870523399
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,0.64,2,14.7842056932966
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,0.64,3,16.2534435261708
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,0.32,1,15.059687786960499
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,0.32,2,15.702479338843
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,0.32,3,16.161616161616198
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,0.16,1,47.0156106519743
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,0.16,2,46.1891643709826
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,0.16,3,47.658402203856795
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,0.08,1,67.9522497704316
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,0.08,2,68.0440771349862
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,0.08,3,68.41138659320481
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,0.04,1,86.50137741046831
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,0.04,2,86.2258953168044
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,0.04,3,85.76675849403121
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,0.0,1,98.4389348025712
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,0.0,2,100.550964187328
+patient-derived primary,patient-derived bladder cancer cells,Dinaciclib,0.0,3,101.010101010101
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,1.0,1,15.644851529029399
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,1.0,2,15.9403161471414
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,1.0,3,14.980056138277401
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.2,1,24.508790072388802
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.2,2,23.1791992908849
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.2,3,23.1791992908849
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.04,1,25.7645146993648
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.04,2,24.656522381444802
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.04,3,26.5770423991727
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.008,1,52.799527256611
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.008,2,53.98138572905899
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.008,3,53.021125720194995
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.0016,1,66.9818289259861
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.0016,2,63.8055842812823
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.0016,3,66.9818289259861
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.0008,1,79.1697444231053
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.0008,2,80.2777367410253
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.0008,3,83.3801152312011
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.0004,1,82.1982567587532
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.0004,2,85.5222337125129
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.0004,3,87.22115526665681
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.0002,1,89.36327374796869
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.0002,2,86.4824937213769
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.0002,3,93.8691091741764
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.0001,1,96.6021568917122
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.0001,2,98.5226769094401
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.0001,3,91.8747230019205
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.0,1,98.89200768208009
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.0,2,101.32959078150401
+patient-derived primary,patient-derived bladder cancer cells,Dactolisib,0.0,3,99.778401536416
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,30.0,1,1.11420612813371
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,30.0,2,0.0928505106778088
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,30.0,3,1.20705663881151
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,6.0,1,0.9285051067780881
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,6.0,2,1.0213556174559
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,6.0,3,0.8356545961002789
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,1.2,1,0.46425255338904403
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,1.2,2,0.649953574744662
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,1.2,3,0.649953574744662
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,0.24,1,0.46425255338904403
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,0.24,2,0.649953574744662
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,0.24,3,0.557103064066853
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,0.048,1,0.27855153203342603
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,0.048,2,0.557103064066853
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,0.048,3,0.46425255338904403
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,0.0096,1,0.649953574744662
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,0.0096,2,0.649953574744662
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,0.0096,3,0.649953574744662
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,0.00192,1,0.8356545961002789
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,0.00192,2,0.9285051067780881
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,0.00192,3,1.0213556174559
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,0.000384,1,48.0965645311049
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,0.000384,2,46.239554317548695
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,0.000384,3,47.353760445682504
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,7.7e-05,1,95.17177344475401
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,7.7e-05,2,89.9721448467967
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,7.7e-05,3,94.8003714020427
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,0.0,1,100.464252553389
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,0.0,2,100.185701021356
+patient-derived primary,patient-derived bladder cancer cells,Daporinad,0.0,3,99.2571959145775
