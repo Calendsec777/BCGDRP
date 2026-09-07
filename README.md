@@ -3,7 +3,7 @@
 Code, trained checkpoints, analysis outputs and source data for
 **Drug-conditioned multimodal learning for drug response prioritization in unseen cancer cell lines**.
 
-![Overview of the BCGDRP framework](docs/flowchart.png)
+![Overview of the BCGDRP framework](docs/flowchart.jpg)
 
 BCGDRP predicts `ln(IC50 [µM])` from a 2,048-bit Morgan fingerprint, gene expression and DNA
 methylation. The primary benchmark is cell-line-disjoint: response measurements from validation and
